@@ -1,0 +1,26 @@
+{
+  "up_mid": "",
+  "up_mids": [
+    "123456789"
+  ],
+  "cookies_str": "写入您的cookies",
+  "bili_jct": "cookie中的bili_jct",
+  "output_dir": "outputs",
+  "output_format": "both",
+  "page_size": 30,
+  "max_pages": null,
+  "request_interval_seconds": 10,
+  "request_interval_jitter_seconds": 5,
+  "detail_request_interval_seconds": 3,
+  "detail_request_interval_jitter_seconds": 2,
+  "timeout_seconds": 20,
+  "max_retries": 3,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+  "order": "pubdate",
+  "tid": 0,
+  "keyword": "",
+  "fetch_video_detail": true,
+  "failed_pages_file": "outputs/failed_pages.jsonl",
+  "stop_on_page_error": false,
+  "continue_on_detail_error": true
+}
